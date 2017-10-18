@@ -1,0 +1,17 @@
+1504527320194	Delete element
+1504527621615	Rename type 'person'
+1504527815037	Rename resource 'jspusebean'
+1504608160525	Move 'params.jsp' to 'WEB-INF'
+1504612963895	Move 'params.jsp' to 'webapp'
+1504613659049	Delete element
+1504614623353	Delete element
+1504632493412	Delete element
+1504632807697	Move 'requestParameterInEL.jsp' to 'WEB-INF'
+1504632810515	Move 'formGet.html' to 'WEB-INF'
+1504632833802	Delete element
+1504632840076	Move 'formGet.html' to 'webapp'
+1504632877650	Delete element
+1504632902391	Delete element
+1504632978403	Delete element
+1504633372457	Move 'formGet.html' to 'jspExpression_02'
+1504633380567	Move 'jspExpression_02' to 'webapp'

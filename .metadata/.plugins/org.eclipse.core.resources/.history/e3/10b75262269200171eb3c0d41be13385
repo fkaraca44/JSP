@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form id="form1" action="/params.jsp" method="post">
+	
+	<table>
+		<td align="right">Name</td>
+		<td><input type="text" name="firstName"></td>
+		
+		<td align="right">Surname</td>
+		<td><input type="text" name="lastName"></td>
+		
+		<td align="right">Age</td>
+		<td><input type="text" name="age"></td>
+	</table>
+		<input type ="submit" value="Submit"> 
+	
+	</form>
+
+
+
+</body>
+</html>
